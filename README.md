@@ -16,7 +16,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   
-  **Linguagens e Frameworks**
+  **Frameworks**
   
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![AngullarJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs)
