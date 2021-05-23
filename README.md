@@ -5,7 +5,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor WEB PHP** na Uzer Tecnologia.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor WEB PHP** Autônomo.
 <p>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -46,4 +46,3 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 [![Linkedin](https://img.shields.io/badge/-rgrebelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rgrebelo/)
 [![Gmail Badge](https://img.shields.io/badge/-rogrebelo@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rogrebelo@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/rodrigogr?label=follow&style=social)](https://github.com/rodrigogr)
