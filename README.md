@@ -12,7 +12,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 **Linguagens**
  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  
+  ![typescript](https://badges.aleen42.com/src/typescript.svg?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -22,7 +22,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![AngullarJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
   ![Npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
